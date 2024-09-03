@@ -1,5 +1,4 @@
 # Designing a calculator with arithmetic operations
-# input of two numbers based on operation choice
 
 def calculation():
     # User input the two numbers
